@@ -1,9 +1,6 @@
 #include "main.h"
 #include  <stdio.h>
 void _puts(char *str)
-{
-        /* Function implementation goes here */
-}
 /**
  * main - Entry point
  *
